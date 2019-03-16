@@ -18,7 +18,7 @@ O custo de um código confuso aumenta exponencialmente em uma corporação, a ma
 
 Sabe o que é o pior de tudo? A culpa é **nossa**.
 
-Enquanto *negócios* busca cumprir metas e prazos apertados, não devemos corromper nosso código em troca de uma entrega.
+Enquanto a área de negócios busca cumprir metas e prazos apertados, não devemos corromper nosso código em troca de uma entrega.
 
 > Eles podem proteger com paixão os prazos e requisitos, mas essa é a função deles. A *sua* é proteger o código com a mesma paixão.
 

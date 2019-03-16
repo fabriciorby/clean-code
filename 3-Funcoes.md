@@ -13,6 +13,7 @@ Cada função deve ser pequena e *contar uma história*. Funções com `while`, 
 - Um comentário grande e explicativo sobre o que uma função faz.
 
 ## Parâmetros
+
 > O número ideal de parâmetros a serem passados numa função é 0 (relação nulária).  
 > Então temos 1 (relação unária), e 2 (relação binária).  
 > Funções com 3 parâmetros (relação ternária) devem ser evitados quando possível.  
@@ -23,6 +24,7 @@ Uma função com muitos parâmetros é uma função difícil de ler. Além disso
 Criar uma função `void` para mudar algum objeto por "referência" passando por parâmetro é um problema também, normalmente esperamos que a função tenha uma entrada e acarrete em uma saída através do valor de retorno.
 
 ## Flags como parâmetro
+
 Não é uma boa prática.
 
 Se uma função precisa de uma flag para saber qual decisão deve tomar, é porque ela pode ser dividida em duas funções menores.
@@ -58,6 +60,7 @@ Circle makeCircle (Point center, double radius);
 ```
 
 ## `varargs`
+
 As vezes precisamos passar uma lista de parâmetros na função.
 
 ```java

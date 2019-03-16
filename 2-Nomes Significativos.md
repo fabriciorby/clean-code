@@ -97,9 +97,9 @@ Não invente, não utilize nomes engraçados, seja direto e conciso.
 
 Procure sempre utilizar a mesma expressão para diversas operações semelhantes em seus métodos.
 
-Se seu método adiciona algum valor em uma lista e você chama este método com a expressão **add**, não chame outro método que faz uma ação semelhante com a expressão **adiciona**.
+Se seu método adiciona algum valor em uma lista e você chama este método com a expressão `add`, não chame outro método que faz uma ação semelhante com a expressão `adiciona`.
 
-Entretanto, tenha cuidado para não perder a coerência. Se temos um método que, ao ser chamado, adiciona valores concatenando uma lista em outra. Neste caso, talvez devêssemos utilizar outra expressão, tal qual **append**.
+Entretanto, tenha cuidado para não perder a coerência. Se temos um método que, ao ser chamado, adiciona valores concatenando uma lista em outra. Neste caso, talvez devêssemos utilizar outra expressão, tal qual `append`.
 
 ## Utilize Nomes Técnicos
 
@@ -113,11 +113,11 @@ O desenvolvedor que se deparar com uma classe chamada *CarrinhoStrategy*, saber�
 
 ## Adicione Contextos Significativos
 
-Uma variável chamada **estado** sendo utilizada sozinha em uma classe, é possível saber do que ela se trata?
+Sobre uma variável chamada `estado` sendo utilizada sozinha em uma classe, é possível saber do que ela se trata?
 
-Podemos adicionar um contexto ao nome da variável, por exemplo **enderecoEstado**. Sabemos agora que se trata de um estado de um endereço.
+Podemos adicionar um contexto ao nome da variável, por exemplo `enderecoEstado`. Sabemos agora que se trata de um estado de um endereço.
 
-É preferível que se utilize uma classe **Endereco**, neste caso até o compilador saberia do que se trata.
+É preferível que se utilize uma classe `Endereco`, neste caso até o compilador saberia do que se trata.
 
 É importante saber que, além da nomenclatura da variável, o contexto pode ser adquirido através da nomenclatura dos métodos.
 
