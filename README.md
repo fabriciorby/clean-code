@@ -15,20 +15,20 @@ Sobre o capítulo 17, ele já é bem resumido, e será apenas uma lista de heur�
 1. [x] [Introdução][1]
 2. [x] [Nomes Significativos][2]
 3. [x] [Funções][3]
-4. [] [Comentários][4]
-5. [] [Formatação][5]
-6. [] [Objetos e Estrutura de Dados][6]
-7. [] [Tratamento de Erro][7]
-8. [] [Limites][8]
-9. [] [Testes Unitários][9]
-10. [] [Classes][10]
-11. [] Sistemas
-12. [] [Emergencia][12]
-13. [] Concorrência
-14. [] Refinamento Sucessivo
-15. [] Características Internas do JUnit
-16. [] Refatorando o SerialDate
-17. [] [Odores e Heurísticas][17]
+4. [ ] [Comentários][4]
+5. [ ] [Formatação][5]
+6. [ ] [Objetos e Estrutura de Dados][6]
+7. [ ] [Tratamento de Erro][7]
+8. [ ] [Limites][8]
+9. [ ] [Testes Unitários][9]
+10. [ ] [Classes][10]
+11. [ ] Sistemas
+12. [ ] [Emergencia][12]
+13. [ ] Concorrência
+14. [ ] Refinamento Sucessivo
+15. [ ] Características Internas do JUnit
+16. [ ] Refatorando o SerialDate
+17. [ ] [Odores e Heurísticas][17]
 
 [1]: ./1-introducao.md
 [2]: ./2-nomes-significativos.md
