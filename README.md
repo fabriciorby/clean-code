@@ -15,7 +15,7 @@ Sobre o capítulo 17, ele já é bem resumido, e será apenas uma lista de heur�
 1. [x] [Introdução][1]
 2. [x] [Nomes Significativos][2]
 3. [x] [Funções][3]
-4. [ ] [Comentários][4]
+4. [x] [Comentários][4]
 5. [ ] [Formatação][5]
 6. [ ] [Objetos e Estrutura de Dados][6]
 7. [ ] [Tratamento de Erro][7]
