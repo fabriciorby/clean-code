@@ -302,10 +302,8 @@ Nunca quebre a identação.
 
 ## Regras do Time
 
-É de grande importância que um software possua um estilo de formatação conciso e consistente. Portanto, é de extrema importância que haja um consenso em onde colocar chaves, tamanho da identação, nomenclatura de classes, variaveis, funções e etc...
+É de grande importância que um software possua um estilo de formatação conciso e consistente. Portanto, é de extrema importância que haja um consenso em onde colocar chaves, tamanho da identação, nomenclatura de classes, variaveis, funções e etc... Isso pode ser feito criando-se uma guideline.
 
-Exemplo de Guideline do e do [Google][Google] e do [Twitter][Twitter].
-
-[Google]:(https://google.github.io/styleguide/javaguide.html)
-
-[Twitter]:(https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
+Exemplos de Guideline:
+- [Google](https://google.github.io/styleguide/javaguide.html)
+- [Twitter](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
