@@ -304,7 +304,7 @@ Nunca quebre a identação.
 
 É de grande importância que um software possua um estilo de formatação conciso e consistente. Portanto, é de extrema importância que haja um consenso em onde colocar chaves, tamanho da identação, nomenclatura de classes, variaveis, funções e etc...
 
-Exemplo de Guideline do e do [Google] e do [Twitter].
+Exemplo de Guideline do e do [Google][Google] e do [Twitter][Twitter].
 
 [Google]:(https://google.github.io/styleguide/javaguide.html)
 
