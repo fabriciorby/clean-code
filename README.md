@@ -20,7 +20,7 @@ Sobre o capítulo 17, ele já é bem resumido, e será apenas uma lista de heur�
 6. [ ] [Objetos e Estrutura de Dados][6]
 7. [ ] [Tratamento de Erro][7]
 8. [ ] [Limites][8]
-9. [ ] [Testes Unitários][9]
+9. [x] [Testes Unitários][9]
 10. [ ] [Classes][10]
 11. [ ] Sistemas
 12. [ ] [Emergencia][12]
