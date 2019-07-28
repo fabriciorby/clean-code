@@ -1,6 +1,6 @@
 # Testes Unitários
 
-Antigamente as pessoas nunca tinham ouvido falar de TDD (Test Driven Development) e nõa davam importância para os testes unitários. Ou elas faziam apenas por fazer, ou simplesmente não faziam. Não havia muita exigência de qualidade. Graças ao Agile e ao TDD, muitos desenevolvedores estão se tornando adeptos a escrever testes unitários de qualidade.
+Antigamente as pessoas nunca tinham ouvido falar de TDD (Test Driven Development) e não davam importância para os testes unitários. Ou elas faziam apenas por fazer, ou simplesmente não faziam. Não havia muita exigência de qualidade. Graças ao Agile e ao TDD, muitos desenvolvedores estão se tornando adeptos a escrever testes unitários de qualidade.
 
 ## As três regras do TDD
 
@@ -198,4 +198,5 @@ Procure utilizar apenas um assert por teste, e teste um conceito de cada vez.
 * Timely: Os testes devem ser escritos momentos antes do código de produção que faz ele passar.
 
 ## Conclusão
+
 Testes são tão importantes quanto o código de produção. Se você deixar os testes apodrecerem, o código de produção também irá apodrecer.
